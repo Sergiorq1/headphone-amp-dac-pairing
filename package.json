@@ -1,0 +1,24 @@
+{
+  "name": "headphone-amp-dac-pairing",
+  "version": "1.0.0",
+  "description": "website to decide which headphone to pair with an amp Using Node.js and related technologies for the back-end, bootstrap for the frontend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiorq1/headphone-amp-dac-pairing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergiorq1/headphone-amp-dac-pairing/issues"
+  },
+  "homepage": "https://github.com/Sergiorq1/headphone-amp-dac-pairing#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
